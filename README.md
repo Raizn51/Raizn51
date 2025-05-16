@@ -37,18 +37,10 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/gourav-raikwar/)" target="_blank">
+  <a href="https://www.linkedin.com/in/gourav-raikwar/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="mailto:gouravraikwar989@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="30" />
   </a>
-</p>
-
----
-
-### 🔥 GIF for Style (Optional)
-
-<p align="center">
-  <img src="https://i.imgur.com/65efzo.gif" width="400" alt="typing animation" />
 </p>
