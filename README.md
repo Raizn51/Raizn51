@@ -6,7 +6,7 @@
 - 🌱 I’m learning **Spring Boot**, **REST APIs**, and **Microservices Architecture**.
 - 👯 I’m looking to collaborate on **Java-based open-source projects**.
 - 💬 Ask me about **Java**, **Object-Oriented Programming**, and **Software Development Practices**.
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **gouravraikwar989@gmail.com**
 - ⚡ Fun fact: I enjoy solving complex problems and turning ideas into reality through code.
 
 ---
@@ -37,7 +37,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gourav-raikwar/" target="_blank">
+  <a href="https://www.linkedin.com/in/gourav-raikwar/" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="mailto:gouravraikwar989@gmail.com">
